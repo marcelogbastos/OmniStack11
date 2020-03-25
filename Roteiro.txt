@@ -1,0 +1,77 @@
+Roteiro
+
+VIDEO AULA 1 - https://www.youtube.com/watch?v=Hfe28D4cFQA
+VIDEO AULA 2 - https://www.youtube.com/watch?v=GfnWvNSWMZE
+
+WorkshopDev Especial | Episódio 1/5 - https://www.youtube.com/watch?v=cprMYC8PCVY&feature=youtu.be
+WorkshopDev Especial | Episódio 2/5 - https://www.youtube.com/watch?v=3XnK3UPP8fw&feature=youtu.be
+
+
+Felipe Deschamps - https://www.youtube.com/playlist?list=PLMdYygf53DP4QMK3-NG5yvD62nCuO5wA_
+
+1 - Primeiro Dia
+    Apresentar aplicação
+    Configurar ambiente de desenvolvimento
+        Node.js & NPM
+        Visual Studio Code
+    Entender sobre back-end & front-end
+    Criar projeto com Node.js
+    Entender sobre React & SPA
+    Criar projeto com ReactJS
+    Entender sobre React Native & Expo
+
+Extensão Visual Studio Code
+Dracula Official (Theme)
+Material Icon Theme
+
+
+https://chocolatey.org/install
+https://nodejs.org/pt-br/download/package-manager/#windows
+> cinst nodejs-lts
+
+> npm init -y
+> npm install express
+> npx create-react-app frontend
+
+
+2 - Segundo Dia
+    Node.js & express
+        Rotas e recursos
+        Métodos https
+        Utilizando o Insomnia
+        Tipos de parâmentros
+    Configurando Nodemon
+    Diferenças entre banco de dados
+    Configurando banco de dados
+    Pensando nas entidades e funcionalidades
+    Construção do back-end
+    Adicionando módulo CORS
+    Enviando back-end ao Github
+
+    Entidades
+        ONG
+        Caso (incidentes)
+    Funcionalidades
+        Login da ONG
+        Logout da ONG
+        Cadastro da ONG
+        Cadastrar novos casos
+        Deletar casos
+        Lisstar casos especificos de uma ONG
+        Listar todos os casos
+        Entrar em contato com a ONG
+
+-- Instalar o Nodemon como dependência de desenvolvimento, não precisar ficar restartando o serviço
+> npm install nodemon -D  
+
+-- Instalar o Knex.js e o sqlite
+> npm install knex
+> npm install sqlite3
+
+> npx knex init
+> npx knex migrate:make create_ongs 
+> npx knex migrate:latest
+> npx knex migrate:make create_incidents
+> npx knex migrate:status
+
+> npm install cors
