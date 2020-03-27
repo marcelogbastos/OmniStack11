@@ -2,6 +2,8 @@ Roteiro
 
 VIDEO AULA 1 - https://www.youtube.com/watch?v=Hfe28D4cFQA
 VIDEO AULA 2 - https://www.youtube.com/watch?v=GfnWvNSWMZE
+VIDEO AULA 3 - https://www.youtube.com/watch?v=jFl90T6lnBQ
+VIDEO AULA 4 - https://www.youtube.com/watch?v=NslRQP2-Iwo
 
 WorkshopDev Especial | Episódio 1/5 - https://www.youtube.com/watch?v=cprMYC8PCVY&feature=youtu.be
 WorkshopDev Especial | Episódio 2/5 - https://www.youtube.com/watch?v=3XnK3UPP8fw&feature=youtu.be
@@ -24,6 +26,9 @@ Extensão Visual Studio Code
 Dracula Official (Theme)
 Material Icon Theme
 
+Fira Code - Font Ligatures
+https://www.figma.com/ -- Layout
+https://feathericons.com/ -- Icones
 
 https://chocolatey.org/install
 https://nodejs.org/pt-br/download/package-manager/#windows
@@ -75,3 +80,25 @@ https://nodejs.org/pt-br/download/package-manager/#windows
 > npx knex migrate:status
 
 > npm install cors
+
+
+3 - Terceiro Dia
+    Limpando estrutura
+    Conceitos do React
+        Componentes
+        JSX
+        Propriedades
+        Estado
+        Imutabilidade
+    Pagina de Login
+    Configurando Rotas
+    Cadastro de ONGs
+    Listagem de casos
+    Cadastro de um novo caso
+    Conectando aplicação à API
+    Enviando projeto ao Github
+
+> npm start
+> npm install react-icons
+> npm install react-router-dom
+> npm install axios
