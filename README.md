@@ -4,7 +4,7 @@ Esse repositório contém o desenvolvimento do projeto da semana OmniStack 11.0
 - [BackEnd](https://github.com/marcelogbastos/OmniStack11/tree/master/Projeto/backend)
 - [FrontEnd](https://github.com/marcelogbastos/OmniStack11/tree/master/Projeto/frontend)
 - [Mobile](https://github.com/marcelogbastos/OmniStack11/tree/master/Projeto/mobile)
-- [Testes](https://github.com/marcelogbastos/OmniStack11/tree/master/Projeto/backend/src/tests)
+- [Testes](https://github.com/marcelogbastos/OmniStack11/tree/master/Projeto/backend/tests)
 
 ## Be The Hero
 <p align="center">
