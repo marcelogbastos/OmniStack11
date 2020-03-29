@@ -57,7 +57,6 @@ https://nodejs.org/pt-br/download/package-manager/#windows
     Construção do back-end
     Adicionando módulo CORS
     Enviando back-end ao Github
-
     Entidades
         ONG
         Caso (incidentes)
@@ -149,3 +148,41 @@ https://nodejs.org/pt-br/download/package-manager/#windows
 > expo install expo-mail-composer
 > npm install axios
 > npm install intl
+
+
+5 - Quinto Dia
+    Adicionando validação
+    Adicionando testes
+        Por que fazer testes?
+        TDD (Test-driven Development)
+        Configurando Jest
+        Tipos de testes
+        Configurando banco de testes
+        Instalando supertest
+        Testando rota de autencicação
+    Deploy
+        Alternativas
+        Qual escolher?
+    Estudos daqui pra frente
+        Padrões de código: ESlint, Prettier
+        Autenticação JWT
+        Styled Components
+    Dicas para aproveitar melhor
+        Github
+        Linkedin
+
+-- https://github.com/arb/celebrate
+-- https://hapi.dev/module/joi/api/
+-- https://jestjs.io/docs/en/api
+> npm install celebrate
+> npm install jest -D
+> npx jest --init
+> npm test
+> npm install cross-env
+> npm install supertest -D
+
+-- HOSPEDAGEM backend
+-- https://www.heroku.com/
+-- https://www.digitalocean.com/
+-- HOSPEDAGEM frontend
+-- https://www.netlify.com/
