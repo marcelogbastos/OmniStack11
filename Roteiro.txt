@@ -4,12 +4,17 @@ VIDEO AULA 1 - https://www.youtube.com/watch?v=Hfe28D4cFQA
 VIDEO AULA 2 - https://www.youtube.com/watch?v=GfnWvNSWMZE
 VIDEO AULA 3 - https://www.youtube.com/watch?v=jFl90T6lnBQ
 VIDEO AULA 4 - https://www.youtube.com/watch?v=NslRQP2-Iwo
+VIDEO AULA 5 - https://www.youtube.com/watch?v=g3EykUncsGY
 
-WorkshopDev Especial | Episódio 1/5 - https://www.youtube.com/watch?v=cprMYC8PCVY&feature=youtu.be
-WorkshopDev Especial | Episódio 2/5 - https://www.youtube.com/watch?v=3XnK3UPP8fw&feature=youtu.be
+Layout Desktop - https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1
+Layout Desktop - https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A95
 
 
 Felipe Deschamps - https://www.youtube.com/playlist?list=PLMdYygf53DP4QMK3-NG5yvD62nCuO5wA_
+
+WorkshopDev Especial | Episódio 1/5 - https://www.youtube.com/watch?v=cprMYC8PCVY
+WorkshopDev Especial | Episódio 2/5 - https://www.youtube.com/watch?v=3XnK3UPP8fw
+
 
 1 - Primeiro Dia
     Apresentar aplicação
@@ -102,3 +107,45 @@ https://nodejs.org/pt-br/download/package-manager/#windows
 > npm install react-icons
 > npm install react-router-dom
 > npm install axios
+
+
+4 - Quarto Dia
+    Instalando Expo
+    Criando o projeto React Native
+    Executando projeto
+        No Celular
+        Emuladores
+        Expo Snack
+    Diferenças para o ReactJS
+        Elementos HTML
+        Semântica
+        Estilização
+            Firefox
+            Propriedades
+            Herança de estilos
+            Estilização própria
+    Estrutura de pastas
+    Ícone e Splash Screen
+    Configuração navegação
+    Página de casos
+    Detalhe do caso
+    Abrindo Whatsapp & E-mail
+    Conexão com a API
+    Enviando projeto ao Github
+
+-- Expo common issues --https://github.com/Rocketseat/expo-common-issues
+-- https://snack.expo.io/
+-- https://reactnavigation.org/docs/getting-started
+-- https://docs.expo.io/versions/latest/sdk/mail-composer/
+> npm install -g expo-cli
+> expo -h
+> expo init mobile
+-- Template blank
+> cd mobile
+> npm start
+> npm install @react-navigation/native
+> npm install @react-navigation/stack
+> expo install expo-constants
+> expo install expo-mail-composer
+> npm install axios
+> npm install intl
